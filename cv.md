@@ -6,6 +6,7 @@
 - **Phone**: +380 98 264-81-49
 - **Email**: vorobjov75@gmail.com
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/andreyvorobyovua/)
+- **Discord**: Andrey Vorobyov (@vorobjovsh)
 
 ## About Me
 
@@ -47,9 +48,9 @@ function findOutlier(integers){
 
 ## Education
 
-- **Academy**: Kharkov Railway Academy, a mechanical engineer by profession "Locomotives", Sep 1992 —— Jun 1997
+- **Academy**: Kharkov Railway Academy, a mechanical engineer by profession "Locomotives", Sep 1992 - Jun 1997
 - **Courses**:
-  - Front-end (JavaScript), GoIT, Kyev
+  - Front-end (JavaScript), GoIT, Kyev, Nov 2017 - Apr 2018
 
 ## English
 
